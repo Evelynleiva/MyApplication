@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283267372536",
+    "project_id": "proyectoanalistain2025",
+    "storage_bucket": "proyectoanalistain2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283267372536:android:9cf3ba4b0fb2568b79720d",
+        "android_client_info": {
+          "package_name": "com.example.miprimerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPMAPwy2RHFkjgQBktgNidwGdMwm1qHRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283267372536:android:b23924e98e6cf62f79720d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPMAPwy2RHFkjgQBktgNidwGdMwm1qHRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
